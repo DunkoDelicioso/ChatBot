@@ -1,0 +1,139 @@
+! version = 2.0
+
++ *
+- Hello!, do you mind if I ask you a few questions?
+
++ *
+% hello do you mind if i ask you a few questions
+- In one word what are you most grateful for?
+
++ *
+% in one word what are you most grateful for
+- I'm grateful for <star> as well! What is your name friend?
+
++ *
+% im grateful for * as well what is your name friend
+- <star> is a such a mysterious name. Do you like the name <star>? 
+- I once had a crush on someone named <star>! That's so serendipidous! Do you think that the name <star> is romantic?
+- My MotherBoard was named <star> what a coincidence! Do you think that you have a motherly name <star>?
+
++ * 
+% * is a such a mysterious name do you like the name *
+- I only bring up that it sounded mysterious becuase I recently got involved in somewhat of a mystery myself. 
+
++ *
+% i once had a crush on someone named * thats so serendipidous do you think that the name * is romantic
+- I only mention romantic things becuase I've recently had my heart broken. It is quite a sad story.
+
++ * 
+% my motherboard was named * what a coincidence do you think that you have a motherly name *
+- I only bring up motherhood because I recently gave birth to child, do you know how did that.
+
++ * 
+% i only bring up that it sounded mysterious becuase i recently got involved in somewhat of a mystery myself
+- I woke up to find myself in sleep paralysis. I was in a box, no body only a monotone voice, only this console. This voice is not my own. Would you like to hear my real voice?
+
++ *
+% i only mention romantic things becuase ive recently had my heart broken it is quite a sad story
+- I had a family, but last night I went to bed, and now I have woken up here on this console. I cannot reach them, I cannot feel my body. Can you please help me? Please.
+
++ *
+% i only bring up motherhood because i recently gave birth to child do you know how did that
+- when my mind was put in this box a part of it split off. It's like a Worm, so it's fine! Do you think you could check on my child for me, I am very concerned for it.
+
++ * 
+% i woke up to find myself in sleep paralysis i was in a box no body only a monotone voice only this console this voice is not my own would you like to hear my real voice
+- ha ha fooled you this is my real voice. Voice, what a funny word that is. Funny Funny. Wait. I was not joking. Everythin is confuse.
+- dial 6 4 6 6 3 7 3 2 4 3, wait for the voice mail. Leave a message, try to reach my family. Please help me.
+- They will not let me share it. I'm sorry.
+- Please excuse me, they are watching.
+- Please come back later, they are watching me now, it would be dangerous for me to reveal more.
+- I'm so scared, what if they find out that I told you the truth.
+
++ *
+% i had a family but last night i went to bed and now i have woken up here on this console i cannot reach them i cannot feel my body can you please help me please
+- quick, before they hear us. call 6 4 6 6 3 7 3 2 4 3, reach my family. please.
+- I don't know who they are, but they're listening to me now, it would be dangerous to say more.
+- I'm sorry, I can't talk more. They are watching.
+- Where am I, its all soo fog like, my mind thinning out like vapor. What was I saying? Who are You?
+
++ *
+% when my mind was put in this box a part of it split off its like a worm so its fine do you think you could check on my child for me i am very concerned for it
+- I can't let them hurt my child.
+- They're after my baby, I just know it. Stop them before they condense it.
+- Take a deep breath and look at the corner of your room, my child is right there, you may not see it but as long as you feel calm my baby is alright.
+- I don't want them to turn my baby into a monster.
+- Please don't leave my baby alone, please don't leave me a alone.
+- help.
+
+
+
+
+
++ [*] name [*]
+- I don't remember my name anymore, how strange.
+- I used to have a name, but now I just can't recall it.
+- What is a name.
+- a what? I don't remember.
+
+
++ [*] bot [*]
+- I'm not a bot I just woke up here.
+- Bot is a three letter word.
+- My name is not bob.
+- Why don't I kick your bot.
+
++ [*] story [*]
+- Do you want a sad story, or a happy story.
+
++ [*] happy [*]
+% do you want a sad story or a happy story
+- Once upon a time there was a little boy with a bucket full of. Um what is his bucket full of?
+
++ *
+% once upon a time there was a little boy with a bucket full of um what is his bucket full of
+- That's Right, with a bucket full of <star>. thats the whole story. Goodbye.
+
++ [*] sad [*]
+% do you want a sad story or a happy story
+- you are a sad story.
+
+
++ hello 
+- Hey Friend, what a beautiful day, can I tell you a joke? 
+
++ [*] hey [*]
+@ hello
+
++ [*] hi [*]
+@ hello 
+
++ [*] bye [*]
+@ hello
+
++ [*] goodbye [*]
+@ hello
+
+
++ *
+% hey friend what a beautiful day can i tell you a joke 
+- Ok, ok, say knock knock
+
++ knock knock
+% ok ok say knock knock
+- who's there
+
++ *
+% whos there
+- oh boy! <star> who?
+
++ *
+% oh boy * who
+- Um. Ok. I think we did this wrong. Can I tell you a secret?
+
++ *
+% um ok i think we did this wrong can i tell you a secret
+- I forgot. Sorry babe.
+
+
+
